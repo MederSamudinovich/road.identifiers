@@ -1,0 +1,16 @@
+.container {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    width: 250px;
+    height: 300px;
+}
+.header {
+    background: green;
+}
+.main{
+    background: red;
+}
+.footer{
+    background: yellow;
+}
